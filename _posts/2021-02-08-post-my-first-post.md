@@ -7,6 +7,6 @@ tags:
   - stuff
 ---
 
-# Welcome to my blog!!!
+This is my first post, enjoy!!! 
 
-This is my first post, enjoy!!!
+
