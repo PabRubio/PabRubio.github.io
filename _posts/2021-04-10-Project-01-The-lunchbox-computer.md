@@ -9,11 +9,11 @@ tags:
 
 This is the first project post in my coding adventure, enjoy!!!
 
-This series of project posts will show you the start of my coding adventure, for this first post I am going to write about a project I have done a while ago, The Lunchbox Computer, I will tell you about it and even how to make it yourself!!!
+This series of project posts will show you the start of my coding adventure, for this first post I am going to write about a project I have done a while ago, The Lunchbox Computer, I will tell you about it and even show you how to make it yourself!!!
 
 ![Pablo](/assets/images/lunchbox/IMG_6226.JPG)
 
-The Lunchbox Computer is basically a Raspberry Pi computer in a lunchbox, so you can go around with it and no one will ever know your secret, perfect for all the hackers out there that want an ideal place to hide their computers to take to places where computers are not allowed. Let's get right into how to make it...
+The Lunchbox Computer is basically a Raspberry Pi computer in a lunchbox, so you can go around with it and no one will ever know your secret, perfect for all the hackers out there that want an ideal place to hide their computers, or to take it to places where computers are not allowed. Let's get right into how to make it...
 
 ### Things you'll need:  
 
