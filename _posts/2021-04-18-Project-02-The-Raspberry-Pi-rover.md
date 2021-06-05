@@ -9,7 +9,7 @@ tags:
 
 This is the second project post in my coding adventure, enjoy!!!
 
-This series of project posts will show you the start of my coding adventure, for this second post I am going to write about another project I have done a quite a long time ago, The Raspberry Pi Rover, I will tell you about it and even show you how to make it yourself!!!
+This series of project posts will show you the start of my coding adventure, for this second post I am going to write about another project I have done a quite a long time ago, The Raspberry Pi Rover, I will tell you how I made it, so you can go and make it yourself!!!
 
 ![Pablo](/assets/images/Rover/IMG_6235.JPG)
 

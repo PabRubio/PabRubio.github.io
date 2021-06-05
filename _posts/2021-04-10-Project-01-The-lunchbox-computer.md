@@ -9,7 +9,7 @@ tags:
 
 This is the first project post in my coding adventure, enjoy!!!
 
-This series of project posts will show you the start of my coding adventure, for this first post I am going to write about a project I have done a while ago, The Lunchbox Computer, I will tell you about it and even show you how to make it yourself!!!
+This series of project posts will show you the start of my coding adventure, for this first post I am going to write about a project I have done a while ago, The Lunchbox Computer, I will tell you how I made it, so you can go and make it yourself!!!
 
 ![Pablo](/assets/images/lunchbox/IMG_6226.JPG)
 
